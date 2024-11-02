@@ -7,7 +7,7 @@ This website is designed for a design agency and is optimized for both mobile an
 - Past Clients Menu: Features sections for undisclosed clients, with project images that appear on hover for desktop and tap for mobile.
 - Contact Form: Designed to provide feedback for invalid inputs.
 
-##Site Map
+## Site Map
 The site consists of a single main page.
 
 ### Live site
