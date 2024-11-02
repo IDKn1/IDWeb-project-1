@@ -1,9 +1,14 @@
-# title of project
-## What is it
-This website is for a design agency, and supports both mobile and computer screen sizes. Like we had discussed i want to focus on a single webpage desing instead of a multipage one. Given the styling i picked for the past cilents section i felt that focusing on closer to a newspaper style would be more fitting so i started with a big hero image and made use of grids through out for the responsieve portions of the rest of the website throughout. The only exception to this is the hover images in the past work section as i felt having them break this grid system made them both stand out more and also allowed for more fine tuning in making sure they were still visable but allowing the rest of the other items to be seen in mobile view
-## Web componentent
-- nav bar with mobile version
-- menu of past clients with portions for clients that couldn't be diclosed and project image that shows on hover for both web and tap for mobile
-- contact form that would have feedback for wrong inputs
-## Site map
-Just a single main page
+# A Single-Page Experience: The Agency Portfolio
+## Overview
+This website is designed for a design agency and is optimized for both mobile and desktop screens. As discussed, I decided to focus on a single-page layout instead of a multi-page design. For the "Past Clients" section, I felt that adopting a newspaper-style aesthetic would be more appropriate. I started with a hero image and incorporated a grid layout throughout the responsive sections of the site. The only exception is the hover images in the "Past Work" section, where breaking the grid allows them to stand out and provides more flexibility in ensuring visibility while maintaining a cohesive mobile experience.
+
+## Web Components
+- Navigation Bar: Includes a mobile-friendly version.
+- Past Clients Menu: Features sections for undisclosed clients, with project images that appear on hover for desktop and tap for mobile.
+- Contact Form: Designed to provide feedback for invalid inputs.
+
+##Site Map
+The site consists of a single main page.
+
+### Live site
+https://idkn1.github.io/IDWeb-project-1/
